@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19fd6dd8-20a0-49fe-871f-cd1ccf97aea3" name="Changes" comment="Caso 1: calcular promedio con conjunto vacio (Verde)" />
+    <list default="true" id="19fd6dd8-20a0-49fe-871f-cd1ccf97aea3" name="Changes" comment="Caso 2: calcular promedio con conjunto de un elemento (Verde)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in TestConjunto.py.executor": "Run",
+    "Python.Conjunto.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -130,7 +131,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729027242995</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Caso 2: calcular promedio con conjunto de un elemento (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729027401057</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027401057</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Caso 2: calcular promedio con conjunto de un elemento (Verde)">
+      <option name="closed" value="true" />
+      <created>1729027511604</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027511604</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +155,8 @@
     <MESSAGE value="Creando el esqueleto de las clases conjunto y testconjunto" />
     <MESSAGE value="Caso 1: calcular promedio con conjunto vacio (Rojo)" />
     <MESSAGE value="Caso 1: calcular promedio con conjunto vacio (Verde)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso 1: calcular promedio con conjunto vacio (Verde)" />
+    <MESSAGE value="Caso 2: calcular promedio con conjunto de un elemento (Rojo)" />
+    <MESSAGE value="Caso 2: calcular promedio con conjunto de un elemento (Verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 2: calcular promedio con conjunto de un elemento (Verde)" />
   </component>
 </project>
